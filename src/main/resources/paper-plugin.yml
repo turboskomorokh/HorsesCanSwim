@@ -1,0 +1,7 @@
+name: theyswim
+version: '0.1-SNAPSHOT'
+main: by.turboskomorokh.Theyswim
+api-version: '1.21'
+prefix: TheySwim
+authors: [ turboskomorokh ]
+website: https://github.com/turboskomorokh
