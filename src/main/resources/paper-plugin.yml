@@ -1,7 +1,7 @@
-name: theyswim
+name: horsescanswim
 version: '0.1-SNAPSHOT'
-main: by.turboskomorokh.Theyswim
+main: by.turboskomorokh.HorsesCanSwim
 api-version: '1.21'
-prefix: TheySwim
+prefix: HorsesCanSwim
 authors: [ turboskomorokh ]
 website: https://github.com/turboskomorokh
