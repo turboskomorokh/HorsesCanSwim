@@ -1,0 +1,8 @@
+name: HorsesCanSwim
+version: 0.1-SNAPSHOT
+main: by.turboskomorokh.HorsesCanSwim
+api-version: 1.21
+authors:
+  - turboskomorokh
+website: https://github.com/turboskomorokh/HorsesCanSwim
+prefix: HorsesCanSwim

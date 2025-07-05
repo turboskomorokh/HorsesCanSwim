@@ -8,7 +8,7 @@ public class SwimUtils {
 
     public static void applySwimPhysics(AbstractHorse horse, int tickCounter) {
         Vector vel = horse.getVelocity();
-        double waterSurfaceY = horse.getLocation().getBlockY() + 0.6;
+        double waterSurfaceY = horse.getLocation().getBlockY() + 0.5;
         double currentY = horse.getLocation().getY();
         double diff = waterSurfaceY - currentY;
 
